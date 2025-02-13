@@ -8,5 +8,5 @@ The `cookbooks` folder contains example code, in the form of Notebooks. Twinstak
 
 Staking via Twinstake API using Fireblocks:
 
-- [TS_CLIENT_STAKING_COOKBOOK.ipynb](TS_CLIENT_STAKING_COOKBOOK.ipynb)
+- [Twinstake API CookBook](cookbooks/TS_CLIENT_STAKING_COOKBOOK.ipynb)
 
